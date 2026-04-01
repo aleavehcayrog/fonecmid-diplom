@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommandGroup xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7d322ef2-2fad-4e9a-9219-b55126c4cdb5">
+  <name>ВКМ_ПВР_И_РР</name>
+  <synonym>
+    <key>ru</key>
+    <value>ПВР_И_РР</value>
+  </synonym>
+  <representation>Auto</representation>
+</mdclass:CommandGroup>

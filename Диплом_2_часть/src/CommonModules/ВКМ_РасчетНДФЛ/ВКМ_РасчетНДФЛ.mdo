@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d413d072-ba0b-457a-afac-c7eb8fbe257a">
+  <name>ВКМ_РасчетНДФЛ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расчет НДФЛ</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

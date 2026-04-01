@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="21a8b274-19fb-43b9-a509-fe22d14cdcd3">
+  <producedTypes>
+    <managerType typeId="3afe0328-210a-4acb-9596-a0d5b353eafa" valueTypeId="77f653e1-c867-46a4-bb28-b61806179f9d"/>
+    <valueManagerType typeId="4ccd8654-f163-4b96-a3c8-765bcad3c8f3" valueTypeId="c0a84798-e439-4cca-b5c5-545beed70347"/>
+    <valueKeyType typeId="36987521-38da-44cb-a07e-39088e8f2ecd" valueTypeId="5d31288b-2bf6-4d7d-8648-10addf9bafa4"/>
+  </producedTypes>
+  <name>ВКМ_TelegramChatID</name>
+  <synonym>
+    <key>ru</key>
+    <value>TelegramChatID</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>50</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
